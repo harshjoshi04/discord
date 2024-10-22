@@ -16,6 +16,8 @@ const config: Config = {
 				secondColor: "#1e1f22",
 				textColor: "#acb0b7",
 				secondTextColor: "#b5bac1",
+				primaryColor: "#5865f2",
+				secondaryColor: "#00A8FC",
 				card: {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'

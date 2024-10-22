@@ -9,7 +9,7 @@ const Button = forwardRef<HTMLButtonElement, ButtonProps>(
       <button
         type={type}
         className={twMerge(
-          `bg-[#5865f2] text-white px-7 py-3 rounded outline-none  border-opacity-50 disabled:opacity-65 `,
+          `bg-primaryColor text-white px-7 py-3 rounded outline-none  border-opacity-50 disabled:opacity-65 `,
           className
         )}
         ref={ref}
